@@ -11,3 +11,5 @@ uuid=`./efsmt -otp uuid | grep "UUID"`
 echo "$uuid" | tee -a uuid_mark.txt
 
 creat the dev branch
+
+Creating a new branch is quick & simple.
