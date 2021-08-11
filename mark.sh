@@ -12,4 +12,10 @@ echo "$uuid" | tee -a uuid_mark.txt
 
 creat the dev branch
 
+Creating a new branch is quick and simple.
+<<<<<<< HEAD
+
 Creating a new branch is quick & simple.
+=======
+creat the feat branch
+>>>>>>> featural
